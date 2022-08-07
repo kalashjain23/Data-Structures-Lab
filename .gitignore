@@ -32,8 +32,8 @@
 *.app
 
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 *.code-workspace
+Class-Work/*
+!Class-Work/*.cpp
+Home-Work/*
+!Home-Work/*.cpp
