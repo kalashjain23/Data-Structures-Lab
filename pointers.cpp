@@ -1,12 +1,12 @@
 #include <iostream>
 
 int main(){
-    std::string names[10];
-    for(int i = 0; i < 10; i++){
-        std::cin >> names[i];
+    int id[10];
+    for(int *p = id; p < id+10; p++){
+        std::cin >> *p;
     }
 
-    for(int i = 0; i < 10; i++){
-        std::cout << names[i] << " ";
+    for(int *p = id; p < id+10; p++){
+        std::cout << *p << " ";
     }
 }
