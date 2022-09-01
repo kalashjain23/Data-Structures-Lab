@@ -35,5 +35,7 @@
 *.code-workspace
 Class-Work/*/*
 !Class-Work/*/*.cpp
+!Class-Work/*/*.c
 Home-Work/*/*
 !Home-Work/*/*.cpp
+!Home-Work/*/*.c
