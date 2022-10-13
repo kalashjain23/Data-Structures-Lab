@@ -39,6 +39,6 @@ Class-Work/*/*
 Home-Work/*/*
 !Home-Work/*/*.cpp
 !Home-Work/*/*.c
-Assignment/*/*
-!Assignment/*/*.cpp
-!Assignment/*/*.c
+Practicals/*/*
+!Practicals/*/*.cpp
+!Practicals/*/*.c
